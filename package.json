@@ -1,0 +1,25 @@
+{
+  "name": "binance_futures_check",
+  "version": "1.0.0",
+  "description": "A downloader and converter for Binance Futures Trade History",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trading",
+    "history",
+    "binance futures",
+    "binance",
+    "futures",
+    "contracking"
+  ],
+  "author": "Klemens <H256> Wittig",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "axios": "^0.19.2",
+    "moment": "^2.27.0",
+    "json2xls": "^0.1.2"
+  }
+}

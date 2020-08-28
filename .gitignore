@@ -1,0 +1,7 @@
+analysis.qvw
+output/*.xlsx
+output/*.json
+.env
+node_modules
+package-lock.json
+.idea
